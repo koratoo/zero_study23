@@ -1,9 +1,11 @@
 # 미션1 과제 설명
 ## 사용 툴 / 라이브러리 
 이클립스, JSP , 서블릿, html, css, java, javascript, EL, JSTL, JQuery<br>
-마리아DB, HieldSQL, 톰캣 9.0 <br>
+마리아DB, HieldSQL, 톰캣 9.0, 메이븐 <br>
 MVC2 패턴, 서울시 공공API 활용
 <br><br>
+![image](https://github.com/koratoo/zero_study23/assets/96603612/d9e6370d-c405-4ed9-9ad0-3b2aa380dbe1)
+![image](https://github.com/koratoo/zero_study23/assets/96603612/aadb9619-5fd0-43bc-9773-2b4b923cc628)
 
 ## 기능1. 내 위치 정보를 불러오기(위도, 경도)
 ![image](https://github.com/koratoo/zero_study23/assets/96603612/2a2874c5-9d28-4b08-a6bc-abc2fcc05905)
