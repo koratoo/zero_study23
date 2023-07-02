@@ -1,4 +1,4 @@
-# zero_study23
+# 미션1 과제 설명
 
 ## 기능1. 내 위치 정보를 불러오기(위도, 경도)
 ![image](https://github.com/koratoo/zero_study23/assets/96603612/2a2874c5-9d28-4b08-a6bc-abc2fcc05905)
