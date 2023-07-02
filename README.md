@@ -41,6 +41,6 @@ HieldSQL에 csv를 넣는 방식은 처음 시도해봤습니다.(과제의 취�
 
 <br><br>
 
-## 기능9. 히스토리 저장 기능(삭제 가능)
+## 기능9. 히스토리 저장 및 목록 화면 (삭제 가능)
 ![image](https://github.com/koratoo/zero_study23/assets/96603612/658ed710-2461-4d22-8992-863a08a879fd)
 
