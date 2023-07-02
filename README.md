@@ -15,7 +15,11 @@ HieldSQL에 csv를 넣는 방식은 처음 시도해봤습니다.(과제의 취�
 ![image](https://github.com/koratoo/zero_study23/assets/96603612/85c59a1c-7493-410a-b802-eb9143ca4d20)
 
 
-## 기능4. 즐겨 찾기 기능 구현 (삭제 가능)
+## 기능4. 즐겨 등록 기능 구현 (등록된 북마크 그룹과 연동)
+![image](https://github.com/koratoo/zero_study23/assets/96603612/f71aca3a-0bc5-4494-8934-3dcbd8d9e5bf)
+
+
+## 기능5. 즐겨 찾기 기능 구현 (삭제 가능)<hr>
 ![image](https://github.com/koratoo/zero_study23/assets/96603612/0e0bbefd-7f16-4704-bff5-69071adae839)
 
-
+## 기능6.
