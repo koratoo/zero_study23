@@ -28,5 +28,7 @@ HieldSQL에 csv를 넣는 방식은 처음 시도해봤습니다.(과제의 취�
 ![image](https://github.com/koratoo/zero_study23/assets/96603612/0e0bbefd-7f16-4704-bff5-69071adae839)
 <br><br>
 
-## 기능6.
+## 기능6. 북마크 추가하기 기능
+![image](https://github.com/koratoo/zero_study23/assets/96603612/fe8534e8-e8a4-4def-8367-c737e269e402)
+
 <br><br>
