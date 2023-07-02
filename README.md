@@ -11,6 +11,12 @@ MVC2 패턴, 서울시 공공API 활용
 
 <br><br>
 
+## ERD
+![image](https://github.com/koratoo/zero_study23/assets/96603612/baa4f96d-8f88-445f-8b5f-a3c55b63d001)
+
+즐겨찾기 메뉴와 타 테이블 1대 다 매핑<br>
+히스토리 테이블
+
 ## 기능1. 내 위치 정보를 불러오기(위도, 경도)
 ![image](https://github.com/koratoo/zero_study23/assets/96603612/2a2874c5-9d28-4b08-a6bc-abc2fcc05905)
 <br><br>
