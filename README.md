@@ -1,4 +1,8 @@
 # 미션1 과제 설명
+## 사용 툴 / 라이브러리 
+이클립스, JSP , 서블릿, html, css, java, javascript, EL, JSTL, JQUERY<br>
+마리아DB, HieldSQL, 톰캣 9.0 <br>
+MVC2 패턴
 <br><br>
 
 ## 기능1. 내 위치 정보를 불러오기(위도, 경도)
